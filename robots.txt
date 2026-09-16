@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Sitemap: https://anti-a-i-snake-and-hedgehog.vercel.app/sitemap.xml
+
+# Блокировка служебных путей
+Disallow: /admin/
+Disallow: /api/
+Disallow: /*.json$
